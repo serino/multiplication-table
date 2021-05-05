@@ -1,0 +1,1 @@
+This app allows a user to input 2 separate numbers and generate a multiplication table.

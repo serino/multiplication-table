@@ -1,0 +1,40 @@
+body {
+  background-color: beige;
+}
+
+input,
+button {
+  padding: 5px;
+}
+
+input {
+  width: 150px;
+}
+
+#table {
+  margin-top: 30px;
+  position: relative;
+}
+
+.label,
+.square {
+  width: 38px;
+  height: 38px;
+  font-size: 16px;
+  text-align: center;
+  line-height: 38px;
+  overflow: hidden;
+  position: absolute;
+}
+
+.label {
+  border: 1px solid transparent;
+}
+
+.square {
+  border: 1px solid black;
+}
+
+.perfect {
+  background-color: lightblue;
+}
